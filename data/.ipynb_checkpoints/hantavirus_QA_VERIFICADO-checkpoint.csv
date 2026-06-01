@@ -1,0 +1,21 @@
+Gh_ID,linked_id,status,symptom_onset,outcome,outcome_date,treatment,treatment_date,cruise.crew..y.n.,passenger..y.n.,age,sex,symptoms,cause_death,exposure,travel_from,travel_to,Travel_flight,ship_boarded,left_ship,left_location,confirmed,confirmation_date,nationality
+1,2.0,probable,2026-04-06,died,2026-04-11,hospitalised,,n,y,70,male,"fever, headache, diarrhea",respiratory distress,,,,,2026-04-01,2026-04-24,St. Helena,,,dutch
+2,1.0,confirmed,2026-04-24,died,2026-04-26,hospitalised,,n,y,69,female,diarreah,,Husband,St. Helena,"Johannesburg, South Africa",Airlink ,2026-04-01,2026-04-24,St. Helena,y,2026-05-04,dutch
+3,,confirmed,2026-04-24,,,hospitalised,2026-04-29,n,y,,male,"fever, shortness of breath, signs of pneumonia",,,Ascension,South Africa,,2026-04-01,2026-04-27,Ascension,y,2026-05-02,british
+4,,confirmed,2026-04-28,died,2026-05-02,hospitalised,,n,y,,female,"flu like symptoms, later signs of pneumonia",,,,,,2026-04-01,,,,,german
+5,,confirmed,2026-05-01,,,hospitalised,,n,y,,male,mild symptoms,,,St. Helena,"Zurich, Switzerland",,2026-04-01,2026-04-24,St. Helena,y,2026-05-06,swiss
+6,2.0,negative,,,,hospitalised,2026-05-07,n,n,,female,mild symptoms,,ID2 on KLM flight to Schipol,,"Amsterdam, Netherlands",,,,,,,
+7,,confirmed,2026-04-30,,,hospitalised,2026-05-06,y,n,56,male,acute symptoms (serious condition),,,,Netherlands,Medicalized aircraft 1,2026-04-01,2026-05-06,Cape Verde,y,2026-05-07,british
+8,,confirmed,2026-04-27,,,hospitalised,2026-05-07,y,n,41,,gastrointesinal symptoms (stable condition),,,,Netherlands (arrived 2026-05-07),Medicalized aircraft 2,2026-04-01,2026-05-06,Cape Verde,y,2026-05-06,dutch
+9,4.0,negative,,,,hospitalised,2026-05-06,n,y,65,female,no symptoms,,linked to person who died 2026-05-02 (ID4),,"Netherlands, then Dusseldorf, Germany",Medicalized aircraft 1,2026-04-01,2026-05-06,Cape Verde,,,german
+10,2.0,negative,,,,hospitalised,,n,y,67,male,runny nose,,on same flight with ID 2,,Singapore,,2026-04-01,2026-04-24,St. Helena,,,singaporean
+11,2.0,negative,,,,hospitalised,,n,y,65,male,no symptoms,,on same flight with ID 2,,Singapore,,2026-04-01,2026-04-24,St. Helena,,,singaporean permanent resident
+12,,probable,2026-04-28,,,hospitalised,,n,y,,male,diarrhiea,,,,,,2026-04-01,2026-04-14,Tristan de Cunha,,,british
+13,2.0,monitored,,,,monitored,,n,n,,male,mild symptoms,,on same flight with ID 2,St. Helena,"Johannesburg, South Africa",,,,,,,french
+14,2.0,tested,,,,monitored,,n,n,,female,diagnosed with symptoms consistent with a hantavirus infection,,"sitting on a plane two rows behind a Dutch woman who had contracted the virus on the Hondius, Spanish Secretary of State for Health Javier Padilla told reporters. The woman left the flight in Johannesburg feeling ill before it took off on April 25 and later died at a hospital.",St. Helena,"Johannesburg, South Africa",,,,,,,spanish
+15,,confirmed,2026-05-10,,,hospitalised,2026-05-10,n,y,,female,flu like symptoms,,,Canary Islands,"Paris, France",evacuation flight,2026-04-01,2026-05-10,Tenerife,y,2026-05-11,french
+16,,inconclusive,,,,"biocontainment unit, nebraska",2026-05-10,n,y,,,no symptoms,,,Canary Islands,Nebraska,evacuation flight,2026-04-01,2026-05-10,Tenerife,y,2026-05-11,american
+17,,monitored,2026-05-10,,,quarantine,2026-05-10,n,y,,,mild symptoms,,,Canary Islands,Nebraska,evacuation flight,2026-04-01,2026-05-10,Tenerife,,,american
+18,,confirmed,2026-05-10,,,hospitalised,2026-05-10,n,y,,,"fever, respiratory symptoms",,,,,evacuation flight,2026-04-01,2026-05-10,Tenerife,y,2026-05-11,spanish
+19,,tested,,,,hospitalised,2026-05-12,n,n,,,pneumonia,,,"Buenos Aires, Argentina","Rome, Italy",commercial flight,,,,,,argentinian
+20,,confirmed,2026-05-14,,,hospitalised,,n,y,70s,,mild symptoms,,,Canary Islands,Vancouver,evacuation flight,2026-04-01,2026-05-10,Tenerife,y,2026-05-15,canadian

@@ -1,0 +1,21 @@
+gh_id,linked_id,status,symptom_onset,outcome,outcome_date,treatment,treatment_date,is_crew,is_passenger,age,sex,cause_death,exposure,travel_from,travel_to,travel_flight,ship_boarded,left_ship,left_location,confirmed,confirmation_date,nationality,has_fever,has_headache,has_diarrhea,has_shortness_of_breath,has_signs_of_pneumonia,has_flu_like_symptoms,has_later_signs_of_pneumonia,has_mild_symptoms,has_runny_nose,has_diagnosed_with_symptoms_consistent_with_a_hantavirus_infection,has_respiratory_symptoms,has_pneumonia
+1,2,probable,2026-04-06,died,2026-04-11,hospitalised,,n,y,70,male,respiratory distress,,,,,2026-04-01,2026-04-24,St. Helena,yes,,dutch,1,1,1,0,0,0,0,0,0,0,0,0
+2,1,confirmed,2026-04-24,died,2026-04-26,hospitalised,,n,y,69,female,,Husband,St. Helena,"Johannesburg, South Africa",Airlink ,2026-04-01,2026-04-24,St. Helena,yes,2026-05-04,dutch,0,0,1,0,0,0,0,0,0,0,0,0
+3,0,confirmed,2026-04-24,,,hospitalised,2026-04-29,n,y,66,male,,,Ascension,South Africa,,2026-04-01,2026-04-27,Ascension,yes,2026-05-02,british,1,0,0,1,1,0,0,0,0,0,0,1
+4,0,confirmed,2026-04-28,died,2026-05-02,hospitalised,,n,y,66,female,,,,,,2026-04-01,,,yes,,german,0,0,0,0,1,1,1,0,0,0,0,1
+5,0,confirmed,2026-05-01,,,hospitalised,,n,y,66,male,,,St. Helena,"Zurich, Switzerland",,2026-04-01,2026-04-24,St. Helena,yes,2026-05-06,swiss,0,0,0,0,0,0,0,1,0,0,0,0
+6,2,negative,2026-04-19,,,monitored,2026-05-07,n,n,66,female,,ID2 on KLM flight to Schipol,,"Amsterdam, Netherlands",,2026-04-01,,,no,,unknown,0,0,0,0,0,0,0,1,0,0,0,0
+7,0,confirmed,2026-04-30,,,hospitalised,2026-05-06,y,n,56,male,,,,Netherlands,Medicalized aircraft 1,2026-04-01,2026-05-06,Cape Verde,yes,2026-05-07,british,0,0,0,0,0,0,0,0,0,0,0,0
+8,0,confirmed,2026-04-27,,,hospitalised,2026-05-07,y,n,41,unknown,,,,Netherlands (arrived 2026-05-07),Medicalized aircraft 2,2026-04-01,2026-05-06,Cape Verde,yes,2026-05-06,dutch,0,0,0,0,0,0,0,0,0,0,0,0
+9,4,negative,2026-04-19,,,monitored,2026-05-06,n,y,65,female,,linked to person who died 2026-05-02 (ID4),,"Netherlands, then Dusseldorf, Germany",Medicalized aircraft 1,2026-04-01,2026-05-06,Cape Verde,no,,german,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,negative,2026-04-19,,,monitored,,n,y,67,male,,on same flight with ID 2,,Singapore,,2026-04-01,2026-04-24,St. Helena,no,,singaporean,0,0,0,0,0,0,0,0,1,0,0,0
+11,2,negative,2026-04-19,,,monitored,,n,y,65,male,,on same flight with ID 2,,Singapore,,2026-04-01,2026-04-24,St. Helena,no,,singaporean permanent resident,0,0,0,0,0,0,0,0,0,0,0,0
+12,0,probable,2026-04-28,,,hospitalised,,n,y,66,male,,,,,,2026-04-01,2026-04-14,Tristan de Cunha,yes,,british,0,0,1,0,0,0,0,0,0,0,0,0
+13,2,monitored,2026-04-19,,,monitored,,n,n,66,male,,on same flight with ID 2,St. Helena,"Johannesburg, South Africa",,2026-04-01,,,no,,french,0,0,0,0,0,0,0,1,0,0,0,0
+14,2,tested,2026-04-19,,,monitored,,n,n,66,female,,"sitting on a plane two rows behind a Dutch woman who had contracted the virus on the Hondius, Spanish Secretary of State for Health Javier Padilla told reporters. The woman left the flight in Johannesburg feeling ill before it took off on April 25 and later died at a hospital.",St. Helena,"Johannesburg, South Africa",,2026-04-01,,,no,,spanish,0,0,0,0,0,0,0,0,0,1,0,0
+15,0,confirmed,2026-05-10,,,hospitalised,2026-05-10,n,y,66,female,,,Canary Islands,"Paris, France",evacuation flight,2026-04-01,2026-05-10,Tenerife,yes,2026-05-11,french,0,0,0,0,0,1,0,0,0,0,0,0
+16,0,inconclusive,2026-04-19,,,"biocontainment unit, nebraska",2026-05-10,n,y,66,unknown,,,Canary Islands,Nebraska,evacuation flight,2026-04-01,2026-05-10,Tenerife,no,2026-05-11,american,0,0,0,0,0,0,0,0,0,0,0,0
+17,0,monitored,2026-05-10,,,quarantine,2026-05-10,n,y,66,unknown,,,Canary Islands,Nebraska,evacuation flight,2026-04-01,2026-05-10,Tenerife,no,,american,0,0,0,0,0,0,0,1,0,0,0,0
+18,0,confirmed,2026-05-10,,,hospitalised,2026-05-10,n,y,66,unknown,,,,,evacuation flight,2026-04-01,2026-05-10,Tenerife,yes,2026-05-11,spanish,1,0,0,0,0,0,0,0,0,0,1,0
+19,0,tested,2026-04-19,,,monitored,2026-05-12,n,n,66,unknown,,,"Buenos Aires, Argentina","Rome, Italy",commercial flight,2026-04-01,,,no,,argentinian,0,0,0,0,0,0,0,0,0,0,0,1
+20,0,confirmed,2026-05-14,,,hospitalised,,n,y,75,unknown,,,Canary Islands,Vancouver,evacuation flight,2026-04-01,2026-05-10,Tenerife,yes,2026-05-15,canadian,0,0,0,0,0,0,0,1,0,0,0,0
